@@ -7,17 +7,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Learning+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Future+MERN+Stack+Developer" />
 </p>
 
-Hi, I'm Md Toukir Uz Zaman Nirob 👋
-- 🌱 I'm currently learning **Full Stack Web Development**
-- 💻 I enjoy building websites and learning new technologies
-- 🚀 Currently focusing on **JavaScript and TypeScript**
-- ⚛️ Learning **React** and modern web development
-- 🎯 Goal: Become a professional **Full Stack Developer**
+Hi! I'm **Md Toukir Uz Zaman Nirob**, a CSE student and aspiring **Full Stack Developer**.
+
+- 🎓 Currently studying Computer Science & Engineering
+- 💻 Interested in **Web Development & Software Development**
+- 🌱 Currently learning **React.js** and working toward becoming a Full Stack Developer
+- 🧠 Learning and improving my problem-solving skills every day
+- 🚀 Goal: Build real-world, scalable and user-friendly web applications
+- 📚 Always exploring new technologies and improving my coding skills
 
 
-## 🛠️ Skills & Technologies
+## 🛠️ TECHNOLOGY STACK
 
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
 
