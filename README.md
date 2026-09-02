@@ -20,16 +20,6 @@ Web Development and Software Development.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/mdnirob61" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Technology Stack
 
 ### Languages
