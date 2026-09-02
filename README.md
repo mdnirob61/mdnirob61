@@ -17,16 +17,98 @@ Hi! I'm **Md Toukir Uz Zaman Nirob**, a CSE student and aspiring **Full Stack De
 - 📚 Always exploring new technologies and improving my coding skills
 
 
-## 🛠️ TECHNOLOGY STACK
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mdnirob61" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technology Stack
 
 ### Languages
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 ### Frontend
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdnirob61&show_icons=true&theme=dark&hide_border=true"
+    alt="Nirob's GitHub Stats"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mdnirob61&theme=dark&hide_border=true"
+    alt="Nirob's GitHub Streak"
+  />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnirob61&layout=compact&theme=dark&hide_border=true"
+    alt="Nirob's Most Used Languages"
+  />
+</p>
+
+---
+
+## 🚀 My Goals
+
+- Master **JavaScript**
+- Become proficient in **React.js**
+- Learn modern frontend development
+- Learn backend development in the future
+- Build real-world projects
+- Become a professional **Full Stack Developer**
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdnirob61&theme=github-dark&hide_border=true"
+    alt="Nirob's Contribution Graph"
+  />
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
 </p>
 
 
