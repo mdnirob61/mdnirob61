@@ -2,25 +2,115 @@
   <img src="./banner.png" alt="Md Toukir Uz Zaman Nirob Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Toukir Uz Zaman Nirob</h1>
-<h3 align="center">Aspiring full stack developer</h3>
+# Hi 👋, I'm Md Toukir Uz Zaman Nirob
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **HTML, CSS, JS, TS**
-
-- 📫 How to reach me **nirobstudy2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md.nirob.127382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.nirob.127382" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Learning+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Future+MERN+Stack+Developer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a Computer Science & Engineering student passionate about
+Web Development and Software Development.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnirob61&show_icons=true&locale=en&layout=compact" alt="mdnirob61" /></p>
+- 🎓 CSE Student
+- 💻 Interested in Web Development
+- 🌱 Currently learning **React.js**
+- 🚀 Working toward becoming a **Full Stack Developer**
+- 🧠 Improving my problem-solving and programming skills
+- 📚 Always learning and exploring new technologies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mdnirob61" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdnirob61&show_icons=true&theme=dark&hide_border=true"
+    alt="Nirob's GitHub Stats"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mdnirob61&theme=dark&hide_border=true"
+    alt="Nirob's GitHub Streak"
+  />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnirob61&layout=compact&theme=dark&hide_border=true"
+    alt="Nirob's Most Used Languages"
+  />
+</p>
+
+---
+
+## 🚀 My Goals
+
+- Master **JavaScript**
+- Become proficient in **React.js**
+- Learn modern frontend development
+- Learn backend development in the future
+- Build real-world projects
+- Become a professional **Full Stack Developer**
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdnirob61&theme=github-dark&hide_border=true"
+    alt="Nirob's Contribution Graph"
+  />
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+</p>
 
 
