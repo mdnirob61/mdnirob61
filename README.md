@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Md Toukir Uz Zaman Nirob Banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
