@@ -47,11 +47,6 @@ I'm a Computer Science & Engineering student passionate about **Full Stack Web D
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
-### Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs" />
-</p>
 
 ---
 
