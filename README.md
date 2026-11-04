@@ -5,16 +5,17 @@
 <h1 align="center">Hi 👋, I'm Md Toukir Uz Zaman Nirob</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Learning+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Future+MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;Building+Real-World+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Technologies" />
 </p>
 
-I'm a Computer Science & Engineering student passionate about
-Web Development and Software Development.
+I'm a Computer Science & Engineering student passionate about **Full Stack Web Development**. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my development skills.
 
 - 🎓 CSE Student
-- 💻 Interested in Web Development
-- 🌱 Currently learning **React.js**
-- 🚀 Working toward becoming a **Full Stack Developer**
+- 💻 Full Stack Developer
+- 🌱 Currently exploring **Next.js and Full Stack Development**
+- ⚛️ Experienced with **React.js, Next.js, and TypeScript**
+- 🔧 Working with **Node.js, Express.js, and MongoDB**
+- 🚀 Building real-world web applications and projects
 - 🧠 Improving my problem-solving and programming skills
 - 📚 Always learning and exploring new technologies
 
@@ -28,16 +29,28 @@ Web Development and Software Development.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs" />
 </p>
 
 ---
@@ -77,11 +90,12 @@ Web Development and Software Development.
 
 ## 🚀 My Goals
 
-- Master **JavaScript**
-- Become proficient in **React.js**
-- Learn modern frontend development
-- Learn backend development in the future
-- Build real-world projects
+- Strengthen my JavaScript and TypeScript skills
+- Become proficient in **Next.js and React.js**
+- Improve my backend development skills
+- Master database management and API development
+- Build scalable and real-world full-stack applications
+- Improve problem-solving and software development skills
 - Become a professional **Full Stack Developer**
 
 ---
@@ -102,5 +116,3 @@ Web Development and Software Development.
 <p align="center">
   <i>Keep learning. Keep building. Keep growing. 🚀</i>
 </p>
-
-
